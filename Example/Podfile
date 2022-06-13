@@ -1,0 +1,6 @@
+use_frameworks!
+target 'xcdHelloWorld1_Tests' do
+  pod 'xcdHelloWorld1', :path => '../'
+  
+  
+end

@@ -1,0 +1,16 @@
+PODS:
+  - xcdHelloWorld1 (0.1.0)
+
+DEPENDENCIES:
+  - xcdHelloWorld1 (from `../`)
+
+EXTERNAL SOURCES:
+  xcdHelloWorld1:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  xcdHelloWorld1: 1ab32f94602806863810136b37b106ae95257673
+
+PODFILE CHECKSUM: b812cf3646077b7e2fc4accae1dfa049ab1766de
+
+COCOAPODS: 1.11.3
